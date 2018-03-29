@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name" >Calculator</string>
+    <string name="equal">=</string>
+    <string name="coma">,</string>
+    <string name="Zero">0</string>
+    <string name="Reverse">+/-</string>
+    <string name="Add">+</string>
+    <string name="Nine">9</string>
+    <string name="Eight">8</string>
+    <string name="Seven">7</string>
+    <string name="Sub">-</string>
+    <string name="Six">6</string>
+    <string name="Five">5</string>
+    <string name="Four">4</string>
+    <string name="Mul">*</string>
+    <string name="Three">3</string>
+    <string name="Two">2</string>
+    <string name="One">1</string>
+    <string name="Div">/</string>
+    <string name="Back"><![CDATA[<-]]></string>
+    <string name="Clear">C</string>
+    <string name="Percentage">%</string>
+    <string name="x2">x²</string>
+    <string name="xn">xⁿ</string>
+    <string name="ln">ln</string>
+    <string name="log">log</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="sqrt">√</string>
+    <string name="pi">π</string>
+    <string name="made_by">Made by:</string>
+    <string name="artur_karlinski">Artur Karliński</string>
+    <string name="indeks">Index: 202180</string>
+    <string name="copyright">Copyright © 2018</string>
+    <string name="all_rights">All Rights Reserved</string>
+    <string name="simple">Simple</string>
+    <string name="scientific">Scientific</string>
+    <string name="credits">Credits</string>
+    <string name="exit">Exit</string>
+
+
+</resources>

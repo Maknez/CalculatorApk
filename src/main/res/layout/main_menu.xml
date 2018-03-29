@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.25"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/SimpleCalc"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/importantBlock"
+                android:text="@string/simple"
+                android:textAllCaps="true"
+                android:textAppearance="@android:style/TextAppearance.Material.Widget.TextView"
+                android:textColor="@color/text"
+                android:textSize="36sp"
+                android:textStyle="bold"
+                tools:ignore="NestedWeights" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.25"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/ScienCalc"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/otherBlocks"
+                android:text="@string/scientific"
+                android:textAllCaps="true"
+                android:textAppearance="@android:style/TextAppearance.Material.Widget.TextView"
+                android:textColor="@color/importantBlock"
+                android:textSize="36sp"
+                android:textStyle="bold"
+                tools:ignore="NestedWeights" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.25"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/Credits"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/otherBlocks2"
+                android:text="@string/credits"
+                android:textAllCaps="true"
+                android:textAppearance="@android:style/TextAppearance.Material.Widget.TextView"
+                android:textColor="@color/importantBlock"
+                android:textSize="36sp"
+                android:textStyle="bold|italic"
+                tools:ignore="NestedWeights" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.25"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/Exit"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/otherBlocks"
+                android:text="@string/exit"
+                android:textAllCaps="true"
+                android:textAppearance="@android:style/TextAppearance.Material.Widget.TextView"
+                android:textColor="@color/importantBlock"
+                android:textSize="36sp"
+                android:textStyle="bold"
+                tools:ignore="NestedWeights" />
+        </LinearLayout>
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

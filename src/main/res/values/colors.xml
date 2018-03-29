@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--GREEN-->
+    <!--
+    <color name="colorPrimary">#2e7425</color>
+    <color name="importantBlock">#1a4015</color>
+    <color name="otherBlocks">#99c094</color>
+    <color name="otherBlocks2">#adcca9</color>
+    <color name="text">#eaf2e9</color>
+    -->
+
+    <!--BROWN-->
+    <!--
+    <color name="colorPrimary">#c08545</color>
+    <color name="importantBlock">#604222</color>
+    <color name="otherBlocks">#f9dbbb</color>
+    <color name="otherBlocks2">#fae4cc</color>
+    <color name="text">#fdf6ee</color>
+    -->
+
+    <!--GREY-->
+    <!--
+    <color name="colorPrimary">#3a3a3a</color>
+    <color name="importantBlock">#272727</color>
+    <color name="otherBlocks">#b3b3b3</color>
+    <color name="otherBlocks2">#c6c6c6</color>
+    <color name="text">#ececec</color>
+    -->
+
+    <!--PURPLE-->
+<!--
+    <color name="colorPrimary">#926ec0</color>
+    <color name="importantBlock">#614980</color>
+    <color name="otherBlocks">#dacaee</color>
+    <color name="otherBlocks2">#e3d7f2</color>
+    <color name="text">#f5f1fa</color>
+-->
+
+
+    <!--AQUA-->
+
+    <color name="colorPrimary">#2e8e8e</color>
+    <color name="importantBlock">#1b5555</color>
+    <color name="otherBlocks">#c0dddd</color>
+    <color name="otherBlocks2">#d5e8e8</color>
+    <color name="text">#eaf3f3</color>
+
+
+
+</resources>
